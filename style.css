@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #5f4b8bff;
+  overflow: hidden;
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#days {
+  margin: -110px 0 0 0;
+  text-align: center;
+  color: #e39182ff;
+  font-family: Arial, serif;
+  font-size: 180px;
+  line-height: 227px;
+  font-weight: bold;
+}
